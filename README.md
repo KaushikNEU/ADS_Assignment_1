@@ -190,6 +190,21 @@ Demonstrates both successful and unsuccessful prompt designs side-by-side.
 
 Visual storytelling enhances understanding and shows practical implementation.
 
+### Video Walkthrough:
+https://notebooklm.google.com/notebook/a05e56c6-de27-41a7-9717-d7b87aa863ea?artifactId=ddc10d51-aa92-4431-b8da-da7bd6838289
+
+Recorded with Notebook LLM to explain how to use the Streamlit app effectively.
+
+Combines screen recording + narration to guide viewers through:
+
+Setting up a Prompt Spec
+
+Comparing successful vs. unsuccessful approaches
+
+Linking Direct → Diagnose by checking outputs against acceptance tests
+
+Engages learners through a step-by-step demonstration that mirrors real-world application.
+
 ### Prompt examples for testing:
 
 #### 1) Creative Director - Meta Primary Text (10 Items)
