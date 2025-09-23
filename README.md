@@ -183,6 +183,7 @@ Accessible online so users can test the framework themselves.
 Provides hands-on learning that reinforces theoretical knowledge.
 
 ### Demo Video:
+https://www.loom.com/share/ae30d413f4d348b1b2f2581b374a6661?sid=0fdb177e-46ec-4171-a3e0-66ce958d6ad8
 
 Walkthrough video explaining how to use the Streamlit app.
 
