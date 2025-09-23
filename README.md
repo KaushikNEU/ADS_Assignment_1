@@ -171,8 +171,8 @@ Adds engagement through storytelling style narration, ensuring accessibility for
 
 ### Format 2: Interactive Streamlit App Demo
 
-#### Streamlit App with Deployed Link:
-https://adsassignment1-benmbtzjpq7bmjb8e9rrjz.streamlit.app/
+#### Streamlit App (Run Locally):
+Use the streamlit_app.py code and install the requirements as per the requirements.txt file. Next, use this command: "streamlit run streamlit_app.py". To run the application, please create a ".env" file in your code editor where you will be running this code and paste your API key(LLM of your choice)
 
 Built to showcase how the Direct step can be implemented interactively.
 
